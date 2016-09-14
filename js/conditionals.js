@@ -1,5 +1,5 @@
 //this is a boolean var
-var levelLocked = true;
+var levelLocked = false;
 //Number of times a user can enter a password.
 var attempts = 3;
 
